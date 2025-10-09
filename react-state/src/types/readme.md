@@ -1,0 +1,1 @@
+## Keep Global types here
